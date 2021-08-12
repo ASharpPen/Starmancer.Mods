@@ -1,0 +1,23 @@
+<xml>
+  name:agents
+  <DishDropOffEntity>
+    <componentLookup>
+      <Component>
+        type:World.Item.ItemQueue.ItemInputComponent
+        recordID:23d60fed-6935-4201-96ea-e8161c99fa0f
+        <allInputItems>
+          recordID:FoodDish
+          <itemType>
+						<allAttributes>
+							recordID:FoodDish
+							value:FoodDish
+            </allAttributes>
+          </itemType>
+          amountToStore:6
+          priority:0
+        </allInputItems>
+        allowOutputOfInputItem:True
+      </Component>
+    </componentLookup>
+  </DishDropOffEntity>
+</xml>
