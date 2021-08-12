@@ -1,0 +1,8 @@
+<xml>
+  name:globalConstants
+  <GlobalConstants>
+    <lightAdjustmentInterval>
+			secondCount:1.0
+		</lightAdjustmentInterval>
+  </GlobalConstants>
+</xml>
