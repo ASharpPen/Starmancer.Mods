@@ -6,17 +6,13 @@
 				type:World.Visitor.VisitorEventSpawnerComponent
 				recordID:4ec5e551-914a-4c2b-be47-82243f019838
 				<delayBetweenVisits>
-					minValue:300
-					maxValue:600
+					minValue:360
+					maxValue:720
 				</delayBetweenVisits>
 			</Component>
       <Component>
 				type:World.Visitor.VisitorEventSpawnerComponent
 				recordID:ab55ee2c-4a8e-4887-abc2-1576ff587026
-				<delayBetweenVisits>
-					minValue:300
-					maxValue:600
-				</delayBetweenVisits>
 				<cooldownAfterWarping>
 					minuteCount:300
 				</cooldownAfterWarping>
@@ -36,10 +32,6 @@
       <Component>
 				type:World.Visitor.VisitorEventSpawnerComponent
 				recordID:6d585226-abad-4e49-b1c1-cb8dee9b7ff3
-        <delayBetweenVisits>
-          minValue:300
-          maxValue:600
-        </delayBetweenVisits>
 				<cooldownAfterWarping>
 					minuteCount:300
 				</cooldownAfterWarping>
@@ -59,10 +51,6 @@
       <Component>
 				type:World.Visitor.VisitorEventSpawnerComponent
 				recordID:05e6463a-29db-42ba-9b34-0e603f4f2a02
-        <delayBetweenVisits>
-          minValue:300
-          maxValue:600
-        </delayBetweenVisits>
 				<cooldownAfterWarping>
 					minuteCount:300
 				</cooldownAfterWarping>
